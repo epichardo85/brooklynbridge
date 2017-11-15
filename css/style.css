@@ -1,0 +1,77 @@
+/* Choose from above fonts*/
+@import url('https://fonts.googleapis.com/css?family=Diplomata|Rye|Sancreek');
+
+
+.h1 {
+font-family: 'Diplomata', cursive;
+text-align: center;
+font-size: 30px;
+color: #142c56;
+max-width: 100%;
+padding-top: 25px;
+margin-top: 0px;
+}
+
+h2 {
+font-family: 'Rye', cursive;
+text-align: center;
+font-size: 30px;
+color: #142c56;
+padding-bottom: 20px;
+padding-top: 20px;
+margin-top: 0px;
+}
+
+/* Menu Bars*/
+li {
+  display: inline; 
+  font-size: 30px;
+  text-align: center;
+  margin-left: 280px;
+  flex-shrink: 1;
+}
+
+body {
+  background-color: #f0dcb6;
+  font-family: 'Rye', cursive;
+ }
+ 
+ /*fun facts*/     
+  #list {
+    font-family: 'Rye';
+    font-size: 25px;
+    margin-top: 50px;
+   }
+  /* paragraph div styling*/
+  #text {
+  font-family: 'Rye';
+  font-size: 20px;
+  text-align: left;
+  margin-top: 50px;
+  }
+ 
+.heroimage img {
+  width:100%;
+  margin-top: 50px;
+}
+
+/* Use unused font*/
+footer {
+  font-family: 'Sancreek';
+  margin-top:85px;
+  padding-top:10px;
+  padding-bottom: 10px;
+  font-size: 15px;
+  text-align: center;
+  color: #142c56;
+}
+
+.photos {
+  padding-left: 50px;
+}
+.space {
+  margin-top: 50px;
+}
+
+
+
